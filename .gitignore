@@ -1,0 +1,9 @@
+*.zip
+*.exe
+*.i
+*.s
+*.o
+/.vscode copy/
+# /.vscode/
+/build/
+/tools/
