@@ -7,3 +7,4 @@
 # /.vscode/
 /build/
 /tools/
+*.code-workspace
